@@ -1,0 +1,15 @@
+body {
+    font-size: 1em;
+    margin: 20px;
+    padding: 10px;
+}
+
+button,
+input {
+    font-size: 0.9em;
+}
+
+#clicks {
+    color: red;
+    font-weight: bold;
+}
